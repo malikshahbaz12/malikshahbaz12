@@ -2,11 +2,11 @@
 
 <img alt="Malik Shahbaz — Software Developer: Flutter, Python, Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=230&section=header&text=Malik%20Shahbaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=54&descSize=17" />
 
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img alt="Available for freelance work" src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20FREELANCE%20WORK-00C9FF?style=for-the-badge&labelColor=0F2027"/></a>
+<a href="https://www.upwork.com/freelancers/~0103e057fb84565b52"><img alt="Available for freelance work" src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20FREELANCE%20WORK-00C9FF?style=for-the-badge&labelColor=0F2027"/></a>
 
 <br/><br/>
 
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0F2027"/></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/~0103e057fb84565b52"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0F2027"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/malik-shahbaz-315272415/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027"/></a>&nbsp;
 <a href="https://www.instagram.com/the_shahbazawan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F2027"/></a>&nbsp;
 <a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Say%20Hello-00C9FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F2027"/></a>
@@ -174,7 +174,7 @@ Got a project that needs building? I'm currently taking on new work.
 
 <br/>
 
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0F2027"/></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/~0103e057fb84565b52"><img alt="Hire me on Upwork" src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0F2027"/></a>&nbsp;
 <a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL"><img alt="Start a conversation by email" src="https://img.shields.io/badge/Start%20a%20conversation-00C9FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0F2027"/></a>
 
 <br/><br/>
