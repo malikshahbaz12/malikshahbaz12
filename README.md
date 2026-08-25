@@ -1,109 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=200&section=header&text=Hey,%20I'm%20Malik%20Shahbaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20build%20mobile%20apps,%20ML%20tools,%20and%20ship%20them%20to%20real%20clients&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=210&section=header&text=Malik%20Shahbaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=56&descSize=17" />
 
-<br/>
-
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/malik-shahbaz-315272415/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/the_shahbazawan/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL">
-<img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=680&lines=const+developer+%3D+%7B;+%C2%A0%C2%A0role%3A+%22BS-IT+Student+%40+Bahria+University%22%2C;+%C2%A0%C2%A0focus%3A+%5B%22Flutter%22%2C+%22Python%22%2C+%22ML%22%5D%2C;+%C2%A0%C2%A0freelance%3A+%22Upwork+since+2023%22%2C;+%C2%A0%C2%A0status%3A+%22Always+building%2C+always+learning%22;%7D%3B" alt="Typing SVG" />
+<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/malik-shahbaz-315272415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/the_shahbazawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL"><img src="https://img.shields.io/badge/Contact-00C9FF?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
-## 👋 About Me
-
-I'm a computer science student who'd rather ship something real than just study theory. Since 2023 I've been building on Upwork alongside my degree — mostly Flutter apps, Python/ML tooling, and Shopify storefronts for clients who need working software, not a portfolio piece.
-
-```
-🎓  BS-IT @ Bahria University, Islamabad — graduating 2027
-💼  Freelance developer on Upwork — 5.0 rating, 5+ delivered projects
-📱  Cross-platform mobile apps in Flutter & Dart
-🤖  Practical ML tooling in Python
-🛍️  Shopify builds & customizations for e-commerce clients
-🌱  Currently deepening API integrations + AI-assisted dev workflows
-💬  Open to talk: Flutter, Python, ML, or freelance project scoping
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
 <br/>
-
-## 🧰 Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="60%" valign="top">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,cs,dart&theme=dark" />
+### 👋 A little about me
 
-**Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" />
+I'm a computer science student at **Bahria University, Islamabad**, and a freelance developer who's spent the last few years learning by shipping — not just studying. Since 2023 I've built and delivered mobile apps, machine learning tools, and e-commerce storefronts for clients on Upwork, maintaining a perfect **5.0 rating** across every project.
+
+I care about software that actually works in someone's hands — clean, dependable, and built with the client's real problem in mind rather than the flashiest possible stack.
+
+**What I'm doing right now:**
+- 📱 Building cross-platform apps in **Flutter & Dart**
+- 🤖 Shipping practical **Python / ML** tooling
+- 🛍️ Designing and customizing **Shopify** storefronts
+- 🌱 Deepening **API integrations** and AI-assisted development workflows
+- 🎓 Finishing my BS-IT degree, graduating 2027
 
 </td>
-<td valign="top" width="50%">
+<td width="40%" valign="top">
 
-**Web & Commerce**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,shopify&theme=dark" />
-
-**ML / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=00C9FF&center=true&vCenter=true&width=380&height=220&lines=%3E+whoami;Malik+Shahbaz;%3E+role;BS-IT+Student+%2B+Freelancer;%3E+stack;Flutter+%2F+Python+%2F+ML;%3E+status;Available+for+new+work" alt="Typing SVG"/>
 
 </td>
 </tr>
 </table>
 
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
-<br/>
+## 🧰 Stack
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=python,js,cs,dart&theme=dark"/></td>
+<td align="center" width="25%"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark"/></td>
+<td align="center" width="25%"><b>Web &amp; Commerce</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,js,shopify&theme=dark"/></td>
+<td align="center" width="25%"><b>ML &amp; Data</b><br/><br/><img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark"/></td>
+</tr>
+</table>
+
+<p align="center"><b>Tooling</b><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,latex&theme=dark"/></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
 ## 📌 Featured Work
 
 <table>
 <tr>
-<th>Project</th>
-<th>Stack</th>
-<th>What it does</th>
+<th align="left">Project</th>
+<th align="left">Stack</th>
+<th align="left">Overview</th>
 </tr>
 <tr>
-<td>🍔 <b>Ek Delivery</b></td>
-<td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></td>
-<td>Full food ordering & delivery app — live order tracking, cart management, multi-screen flow.</td>
+<td>🍔&nbsp;<b>Ek&nbsp;Delivery</b></td>
+<td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></td>
+<td>Full food ordering &amp; delivery app with live order tracking, cart management, and smooth multi-screen navigation.</td>
 </tr>
 <tr>
-<td>🖥️ <b>AI Device Manager</b></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></td>
-<td>Real-time system monitor using ML classification to flag malicious processes, with CPU/memory alerts.</td>
+<td>🖥️&nbsp;<b>AI&nbsp;Device&nbsp;Manager</b></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/><img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></td>
+<td>Real-time system monitor using ML classification to detect malicious processes, with automated CPU/memory alerts.</td>
 </tr>
 <tr>
-<td>📊 <b>Student Performance Predictor</b></td>
-<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></td>
-<td>Forecasts academic outcomes from historical records — full preprocessing + feature engineering pipeline.</td>
+<td>📊&nbsp;<b>Student&nbsp;Performance&nbsp;Predictor</b></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></td>
+<td>ML models trained on historical student records to forecast outcomes, with a full preprocessing &amp; feature-engineering pipeline.</td>
 </tr>
 </table>
 
-> 🔗 Link each row above to its actual repo once pinned — see setup note at the bottom.
+<p align="center"><sub>Pin these repos on your profile (and link each project name above to its repo URL) so this table connects straight through to the code.</sub></p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
 ## 💼 Freelance Track Record
 
@@ -111,27 +91,29 @@ I'm a computer science student who'd rather ship something real than just study 
 
 | 🌍 Clients | ⭐ Rating | 📦 Delivered | 🕒 Since |
 |:---:|:---:|:---:|:---:|
-| International (Upwork) | 5.0 / 5.0 | 5+ apps & sites | 2023 |
+| International (Upwork) | 5.0 / 5.0 | 5+ apps &amp; sites | 2023 |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malikshahbaz12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikshahbaz12&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=malikshahbaz12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malikshahbaz12&theme=tokyonight&hide_border=true&background=0F2027&stroke=00C9FF&ring=00C9FF&fire=00C9FF" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=malikshahbaz12&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=malikshahbaz12&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
 
+<sub>Stats will fill out as more of your work moves into public repos — the badges themselves are already wired up correctly.</sub>
+
 <!--
-Optional: a live "contribution snake" animation across the top of your profile.
-Requires a one-time setup — add this GitHub Action (as .github/workflows/snake.yml
-in a repo named exactly "malikshahbaz12") and it generates the image automatically:
+Optional upgrade: a live "contribution snake" animation woven through your commit graph.
+One-time setup — add this as .github/workflows/snake.yml in a repo named exactly
+"malikshahbaz12", let it run once, then paste the <img> line below it back into this file:
 
 name: Generate Snake
 on:
@@ -153,15 +135,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Once that's run once, add this line back in below:
 <img src="https://raw.githubusercontent.com/malikshahbaz12/malikshahbaz12/output/dist/snake.svg" />
 -->
 
-<br/>
-
-## 🌐 Let's Build Something
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
 
 <div align="center">
+
+## 🌐 Let's build something
 
 <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 
@@ -169,8 +150,8 @@ Once that's run once, add this line back in below:
 
 <i>"Building real software for real people — one project at a time."</i>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:203A43,100:0F2027&height=110&section=footer"/>
 
 </div>
