@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9FF&height=210&section=header&text=Malik%20Shahbaz&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=56&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=230&section=header&text=Malik%20Shahbaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20Python%20%C2%B7%20Machine%20Learning&descAlignY=54&descSize=17" />
 
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/malik-shahbaz-315272415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/the_shahbazawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL"><img src="https://img.shields.io/badge/Contact-00C9FF?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20freelance%20work-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=00C9FF"/>
+
+<br/><br/>
+
+<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1a1a2e"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/malik-shahbaz-315272415/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>&nbsp;
+<a href="https://www.instagram.com/the_shahbazawan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/></a>&nbsp;
+<a href="mailto:YOUR-CONTACT-FORM-OR-BUSINESS-EMAIL"><img src="https://img.shields.io/badge/Say%20Hello-00C9FF?style=for-the-badge&logo=maildotru&logoColor=1a1a2e&labelColor=1a1a2e"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00C9FF&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C9FF&height=4&width=1000" width="100%"/>
 
 <br/>
 
