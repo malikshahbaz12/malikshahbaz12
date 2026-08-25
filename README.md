@@ -122,19 +122,59 @@ ML models trained on historical student records to forecast academic outcomes, w
 
 <div align="center">
 
-<img alt="GitHub stats for malikshahbaz12" src="https://github-readme-stats.vercel.app/api?username=malikshahbaz12&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&bg_color=0F2027&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9" width="48%"/>
-<img alt="Contribution streak for malikshahbaz12" src="https://streak-stats.demolab.com/?user=malikshahbaz12&hide_border=true&background=0F2027&stroke=2C5364&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="48%"/>
-
-<br/><br/>
-
-<img alt="Contribution activity graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=malikshahbaz12&bg_color=0F2027&color=00C9FF&line=00C9FF&point=ffffff&area_color=2C5364&title_color=00C9FF&area=true&hide_border=true" width="98%"/>
+<img alt="Contribution streak for malikshahbaz12" src="https://streak-stats.demolab.com/?user=malikshahbaz12&hide_border=true&background=0F2027&stroke=2C5364&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="60%"/>
 
 </div>
 
-> These graphs fill out as more of your work moves into public repos — every URL here is already wired to a live, maintained service.
+> ⚠️ **Note on the cards that were here:** the public `github-readme-stats.vercel.app` and `github-readme-activity-graph.vercel.app` services are both experiencing extended downtime as of this writing — this is a known, widely-reported outage on their end, not something fixable by changing the URL. Rather than leave broken images on your profile, they're replaced below with a **self-hosted** setup that never depends on a third party's server being up.
+
+<details>
+<summary><b>⚙️ One-time setup — self-hosted stats that can't go down (≈10 min)</b></summary>
+
+<br/>
+
+This uses [`lowlighter/metrics`](https://github.com/lowlighter/metrics), an actively maintained GitHub Action that renders your stats as an SVG and commits it straight into your own repo — no external API call happens when someone views your profile, so it can't go down the way the Vercel-hosted cards did.
+
+**1.** Go to `github.com/settings/tokens/new` and create a **classic** Personal Access Token with the `repo` scope (and `read:user` if you want private-contribution counts included). Copy it — you won't see it again.
+
+**2.** In your `malikshahbaz12/malikshahbaz12` repo, go to **Settings → Secrets and variables → Actions**, and add a new secret named `METRICS_TOKEN` with that token as the value.
+
+**3.** Create `.github/workflows/metrics.yml` with:
+
+```yaml
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Karachi
+```
+
+**4.** Run it once manually from the repo's **Actions** tab (it also runs automatically every night). It commits `metrics.svg` to your repo.
+
+**5.** Add this line back into the Activity section above:
+
+```md
+<img alt="GitHub metrics for malikshahbaz12" src="https://raw.githubusercontent.com/malikshahbaz12/malikshahbaz12/main/metrics.svg" width="100%"/>
+```
+
+</details>
 
 <!--
-OPTIONAL UPGRADE — contribution snake animation.
+OPTIONAL UPGRADE — contribution snake animation. Same self-hosted principle as above.
 One-time setup: save the workflow below as .github/workflows/snake.yml inside a repo
 named exactly "malikshahbaz12", run it once from the Actions tab, then paste the
 <img> line at the bottom into the Activity section above.
